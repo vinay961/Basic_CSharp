@@ -12,3 +12,4 @@ E:\Visual-Studio\Basic_CSharp\Inheritance\Inheritance\obj\Debug\net8.0\refint\In
 E:\Visual-Studio\Basic_CSharp\Inheritance\Inheritance\obj\Debug\net8.0\Inheritance.pdb
 E:\Visual-Studio\Basic_CSharp\Inheritance\Inheritance\obj\Debug\net8.0\Inheritance.genruntimeconfig.cache
 E:\Visual-Studio\Basic_CSharp\Inheritance\Inheritance\obj\Debug\net8.0\ref\Inheritance.dll
+E:\Visual-Studio\Basic_CSharp\Inheritance\Inheritance\obj\Debug\net8.0\Inheritance.sourcelink.json
