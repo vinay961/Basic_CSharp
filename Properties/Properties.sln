@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Indexer", "..\Indexer\Index
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegates", "..\Delegates\Delegates.csproj", "{1E236789-CBF4-44A7-A8F6-5A8062FF060B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionHandling", "..\ExceptionHandling\ExceptionHandling.csproj", "{3D41ADFD-24EE-473A-B2F6-AC0255410E8F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{1E236789-CBF4-44A7-A8F6-5A8062FF060B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1E236789-CBF4-44A7-A8F6-5A8062FF060B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1E236789-CBF4-44A7-A8F6-5A8062FF060B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D41ADFD-24EE-473A-B2F6-AC0255410E8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D41ADFD-24EE-473A-B2F6-AC0255410E8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D41ADFD-24EE-473A-B2F6-AC0255410E8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D41ADFD-24EE-473A-B2F6-AC0255410E8F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

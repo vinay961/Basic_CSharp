@@ -1,0 +1,15 @@
+D:\Visual-Studio\Basic_CSharp\ExceptionHandling\bin\Debug\net8.0\ExceptionHandling.exe
+D:\Visual-Studio\Basic_CSharp\ExceptionHandling\bin\Debug\net8.0\ExceptionHandling.deps.json
+D:\Visual-Studio\Basic_CSharp\ExceptionHandling\bin\Debug\net8.0\ExceptionHandling.runtimeconfig.json
+D:\Visual-Studio\Basic_CSharp\ExceptionHandling\bin\Debug\net8.0\ExceptionHandling.dll
+D:\Visual-Studio\Basic_CSharp\ExceptionHandling\bin\Debug\net8.0\ExceptionHandling.pdb
+D:\Visual-Studio\Basic_CSharp\ExceptionHandling\obj\Debug\net8.0\ExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual-Studio\Basic_CSharp\ExceptionHandling\obj\Debug\net8.0\ExceptionHandling.AssemblyInfoInputs.cache
+D:\Visual-Studio\Basic_CSharp\ExceptionHandling\obj\Debug\net8.0\ExceptionHandling.AssemblyInfo.cs
+D:\Visual-Studio\Basic_CSharp\ExceptionHandling\obj\Debug\net8.0\ExceptionHandling.csproj.CoreCompileInputs.cache
+D:\Visual-Studio\Basic_CSharp\ExceptionHandling\obj\Debug\net8.0\ExceptionHandling.sourcelink.json
+D:\Visual-Studio\Basic_CSharp\ExceptionHandling\obj\Debug\net8.0\ExceptionHandling.dll
+D:\Visual-Studio\Basic_CSharp\ExceptionHandling\obj\Debug\net8.0\refint\ExceptionHandling.dll
+D:\Visual-Studio\Basic_CSharp\ExceptionHandling\obj\Debug\net8.0\ExceptionHandling.pdb
+D:\Visual-Studio\Basic_CSharp\ExceptionHandling\obj\Debug\net8.0\ExceptionHandling.genruntimeconfig.cache
+D:\Visual-Studio\Basic_CSharp\ExceptionHandling\obj\Debug\net8.0\ref\ExceptionHandling.dll
