@@ -164,3 +164,5 @@ namespace DemoProject
 // In above code we can see that how enum is used in C# to define a set of named constants.
 // Above we also discuss about auto implemented properties in C#, where we don't need to define private variable and get and set accessors.It implicitly creates a private variable and get and set accessors.
 
+// Important Points: 
+// Properties are used to control the access to the class variables.

@@ -1,0 +1,15 @@
+D:\Visual-Studio\Basic_CSharp\Indexer\bin\Debug\net8.0\Indexer.exe
+D:\Visual-Studio\Basic_CSharp\Indexer\bin\Debug\net8.0\Indexer.deps.json
+D:\Visual-Studio\Basic_CSharp\Indexer\bin\Debug\net8.0\Indexer.runtimeconfig.json
+D:\Visual-Studio\Basic_CSharp\Indexer\bin\Debug\net8.0\Indexer.dll
+D:\Visual-Studio\Basic_CSharp\Indexer\bin\Debug\net8.0\Indexer.pdb
+D:\Visual-Studio\Basic_CSharp\Indexer\obj\Debug\net8.0\Indexer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual-Studio\Basic_CSharp\Indexer\obj\Debug\net8.0\Indexer.AssemblyInfoInputs.cache
+D:\Visual-Studio\Basic_CSharp\Indexer\obj\Debug\net8.0\Indexer.AssemblyInfo.cs
+D:\Visual-Studio\Basic_CSharp\Indexer\obj\Debug\net8.0\Indexer.csproj.CoreCompileInputs.cache
+D:\Visual-Studio\Basic_CSharp\Indexer\obj\Debug\net8.0\Indexer.sourcelink.json
+D:\Visual-Studio\Basic_CSharp\Indexer\obj\Debug\net8.0\Indexer.dll
+D:\Visual-Studio\Basic_CSharp\Indexer\obj\Debug\net8.0\refint\Indexer.dll
+D:\Visual-Studio\Basic_CSharp\Indexer\obj\Debug\net8.0\Indexer.pdb
+D:\Visual-Studio\Basic_CSharp\Indexer\obj\Debug\net8.0\Indexer.genruntimeconfig.cache
+D:\Visual-Studio\Basic_CSharp\Indexer\obj\Debug\net8.0\ref\Indexer.dll
