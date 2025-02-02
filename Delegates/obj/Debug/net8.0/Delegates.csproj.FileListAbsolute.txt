@@ -1,0 +1,15 @@
+D:\Visual-Studio\Basic_CSharp\Delegates\bin\Debug\net8.0\Delegates.exe
+D:\Visual-Studio\Basic_CSharp\Delegates\bin\Debug\net8.0\Delegates.deps.json
+D:\Visual-Studio\Basic_CSharp\Delegates\bin\Debug\net8.0\Delegates.runtimeconfig.json
+D:\Visual-Studio\Basic_CSharp\Delegates\bin\Debug\net8.0\Delegates.dll
+D:\Visual-Studio\Basic_CSharp\Delegates\bin\Debug\net8.0\Delegates.pdb
+D:\Visual-Studio\Basic_CSharp\Delegates\obj\Debug\net8.0\Delegates.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual-Studio\Basic_CSharp\Delegates\obj\Debug\net8.0\Delegates.AssemblyInfoInputs.cache
+D:\Visual-Studio\Basic_CSharp\Delegates\obj\Debug\net8.0\Delegates.AssemblyInfo.cs
+D:\Visual-Studio\Basic_CSharp\Delegates\obj\Debug\net8.0\Delegates.csproj.CoreCompileInputs.cache
+D:\Visual-Studio\Basic_CSharp\Delegates\obj\Debug\net8.0\Delegates.sourcelink.json
+D:\Visual-Studio\Basic_CSharp\Delegates\obj\Debug\net8.0\Delegates.dll
+D:\Visual-Studio\Basic_CSharp\Delegates\obj\Debug\net8.0\refint\Delegates.dll
+D:\Visual-Studio\Basic_CSharp\Delegates\obj\Debug\net8.0\Delegates.pdb
+D:\Visual-Studio\Basic_CSharp\Delegates\obj\Debug\net8.0\Delegates.genruntimeconfig.cache
+D:\Visual-Studio\Basic_CSharp\Delegates\obj\Debug\net8.0\ref\Delegates.dll
