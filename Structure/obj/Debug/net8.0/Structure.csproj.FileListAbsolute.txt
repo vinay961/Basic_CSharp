@@ -1,0 +1,15 @@
+E:\Visual-Studio\Basic_CSharp\Structure\bin\Debug\net8.0\Structure.exe
+E:\Visual-Studio\Basic_CSharp\Structure\bin\Debug\net8.0\Structure.deps.json
+E:\Visual-Studio\Basic_CSharp\Structure\bin\Debug\net8.0\Structure.runtimeconfig.json
+E:\Visual-Studio\Basic_CSharp\Structure\bin\Debug\net8.0\Structure.dll
+E:\Visual-Studio\Basic_CSharp\Structure\bin\Debug\net8.0\Structure.pdb
+E:\Visual-Studio\Basic_CSharp\Structure\obj\Debug\net8.0\Structure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual-Studio\Basic_CSharp\Structure\obj\Debug\net8.0\Structure.AssemblyInfoInputs.cache
+E:\Visual-Studio\Basic_CSharp\Structure\obj\Debug\net8.0\Structure.AssemblyInfo.cs
+E:\Visual-Studio\Basic_CSharp\Structure\obj\Debug\net8.0\Structure.csproj.CoreCompileInputs.cache
+E:\Visual-Studio\Basic_CSharp\Structure\obj\Debug\net8.0\Structure.sourcelink.json
+E:\Visual-Studio\Basic_CSharp\Structure\obj\Debug\net8.0\Structure.dll
+E:\Visual-Studio\Basic_CSharp\Structure\obj\Debug\net8.0\refint\Structure.dll
+E:\Visual-Studio\Basic_CSharp\Structure\obj\Debug\net8.0\Structure.pdb
+E:\Visual-Studio\Basic_CSharp\Structure\obj\Debug\net8.0\Structure.genruntimeconfig.cache
+E:\Visual-Studio\Basic_CSharp\Structure\obj\Debug\net8.0\ref\Structure.dll

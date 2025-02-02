@@ -1,0 +1,15 @@
+D:\Visual-Studio\Basic_CSharp\Properties\Properties\bin\Debug\net8.0\Properties.exe
+D:\Visual-Studio\Basic_CSharp\Properties\Properties\bin\Debug\net8.0\Properties.deps.json
+D:\Visual-Studio\Basic_CSharp\Properties\Properties\bin\Debug\net8.0\Properties.runtimeconfig.json
+D:\Visual-Studio\Basic_CSharp\Properties\Properties\bin\Debug\net8.0\Properties.dll
+D:\Visual-Studio\Basic_CSharp\Properties\Properties\bin\Debug\net8.0\Properties.pdb
+D:\Visual-Studio\Basic_CSharp\Properties\Properties\obj\Debug\net8.0\Properties.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual-Studio\Basic_CSharp\Properties\Properties\obj\Debug\net8.0\Properties.AssemblyInfoInputs.cache
+D:\Visual-Studio\Basic_CSharp\Properties\Properties\obj\Debug\net8.0\Properties.AssemblyInfo.cs
+D:\Visual-Studio\Basic_CSharp\Properties\Properties\obj\Debug\net8.0\Properties.csproj.CoreCompileInputs.cache
+D:\Visual-Studio\Basic_CSharp\Properties\Properties\obj\Debug\net8.0\Properties.sourcelink.json
+D:\Visual-Studio\Basic_CSharp\Properties\Properties\obj\Debug\net8.0\Properties.dll
+D:\Visual-Studio\Basic_CSharp\Properties\Properties\obj\Debug\net8.0\refint\Properties.dll
+D:\Visual-Studio\Basic_CSharp\Properties\Properties\obj\Debug\net8.0\Properties.pdb
+D:\Visual-Studio\Basic_CSharp\Properties\Properties\obj\Debug\net8.0\Properties.genruntimeconfig.cache
+D:\Visual-Studio\Basic_CSharp\Properties\Properties\obj\Debug\net8.0\ref\Properties.dll
