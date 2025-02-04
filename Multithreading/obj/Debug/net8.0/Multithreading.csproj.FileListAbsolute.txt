@@ -1,0 +1,15 @@
+D:\Visual-Studio\Basic_CSharp\Multithreading\bin\Debug\net8.0\Multithreading.exe
+D:\Visual-Studio\Basic_CSharp\Multithreading\bin\Debug\net8.0\Multithreading.deps.json
+D:\Visual-Studio\Basic_CSharp\Multithreading\bin\Debug\net8.0\Multithreading.runtimeconfig.json
+D:\Visual-Studio\Basic_CSharp\Multithreading\bin\Debug\net8.0\Multithreading.dll
+D:\Visual-Studio\Basic_CSharp\Multithreading\bin\Debug\net8.0\Multithreading.pdb
+D:\Visual-Studio\Basic_CSharp\Multithreading\obj\Debug\net8.0\Multithreading.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual-Studio\Basic_CSharp\Multithreading\obj\Debug\net8.0\Multithreading.AssemblyInfoInputs.cache
+D:\Visual-Studio\Basic_CSharp\Multithreading\obj\Debug\net8.0\Multithreading.AssemblyInfo.cs
+D:\Visual-Studio\Basic_CSharp\Multithreading\obj\Debug\net8.0\Multithreading.csproj.CoreCompileInputs.cache
+D:\Visual-Studio\Basic_CSharp\Multithreading\obj\Debug\net8.0\Multithreading.sourcelink.json
+D:\Visual-Studio\Basic_CSharp\Multithreading\obj\Debug\net8.0\Multithreading.dll
+D:\Visual-Studio\Basic_CSharp\Multithreading\obj\Debug\net8.0\refint\Multithreading.dll
+D:\Visual-Studio\Basic_CSharp\Multithreading\obj\Debug\net8.0\Multithreading.pdb
+D:\Visual-Studio\Basic_CSharp\Multithreading\obj\Debug\net8.0\Multithreading.genruntimeconfig.cache
+D:\Visual-Studio\Basic_CSharp\Multithreading\obj\Debug\net8.0\ref\Multithreading.dll
