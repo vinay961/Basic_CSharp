@@ -22,7 +22,7 @@ namespace DemoProject
         }
         
         // Now let's create indexer
-        public object this[string name]
+        public object this[string name] // why we are using object? because we don't know the type of value that we are going to get or set
         {
             get
             {

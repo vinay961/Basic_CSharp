@@ -1,4 +1,5 @@
 ﻿
+// What is Properties in C#? Properties are members of a class that provide a flexible mechanism to read, write, or compute the values of private fields. Properties can be used as if they are public data members, but they are actually special methods called accessors. This enables data to be accessed easily and still helps promote the safety and flexibility of methods.
 // To define property in C# class, we use get and set accessors. The get accessor returns the value of the property, and the set accessor assigns the value to the property
 
 namespace DemoProject
