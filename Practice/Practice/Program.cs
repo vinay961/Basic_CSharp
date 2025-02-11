@@ -54,21 +54,21 @@
     }
     class Program
     {
-        static void Main(string[] args)
-        {
-            Company company = new Company();
+        //static void Main(string[] args)
+        //{
+        //    Company company = new Company();
 
-            Employee emp1 = new Employee(101, "Alice", DepartmentTypes.IT, 60000, 7);
-            Employee emp2 = new Employee(102, "Bob", DepartmentTypes.HR, 45000, 3);
-            Employee emp3 = new Employee(103, "Charlie", DepartmentTypes.Finance, 80000, 10);
-            Employee emp4 = new Employee(104, "David", DepartmentTypes.IT, 30000, 1);
-            Employee emp5 = new Employee(105, "Eva", DepartmentTypes.Marketing, 55000, 5);
+        //    Employee emp1 = new Employee(101, "Alice", DepartmentTypes.IT, 60000, 7);
+        //    Employee emp2 = new Employee(102, "Bob", DepartmentTypes.HR, 45000, 3);
+        //    Employee emp3 = new Employee(103, "Charlie", DepartmentTypes.Finance, 80000, 10);
+        //    Employee emp4 = new Employee(104, "David", DepartmentTypes.IT, 30000, 1);
+        //    Employee emp5 = new Employee(105, "Eva", DepartmentTypes.Marketing, 55000, 5);
 
-            company.AddEmployees(emp1);
-            company.AddEmployees(emp2);
-            company.AddEmployees(emp3);
-            company.AddEmployees(emp4);
-            company.AddEmployees(emp5);
+        //    company.AddEmployees(emp1);
+        //    company.AddEmployees(emp2);
+        //    company.AddEmployees(emp3);
+        //    company.AddEmployees(emp4);
+        //    company.AddEmployees(emp5);
 
             //company.DisplayAllEmployees();
 
@@ -85,20 +85,20 @@
             //    }
             //}
 
-            BonusCalculate bonusCalculate = (emp) =>
-            {
-                if (emp.Experience > 5)
-                {
-                    return emp.Salary * 0.10;
-                }
-                else
-                {
-                    return emp.Salary * 0.05;
-                }
-            };
+        //    BonusCalculate bonusCalculate = (emp) =>
+        //    {
+        //        if (emp.Experience > 5)
+        //        {
+        //            return emp.Salary * 0.10;
+        //        }
+        //        else
+        //        {
+        //            return emp.Salary * 0.05;
+        //        }
+        //    };
 
-            var res = bonusCalculate(emp4);
-            Console.WriteLine("Bonus for " + emp1.Name + " is: " + res);
-        }
+        //    var res = bonusCalculate(emp4);
+        //    Console.WriteLine("Bonus for " + emp1.Name + " is: " + res);
+        //}
     }
 }
