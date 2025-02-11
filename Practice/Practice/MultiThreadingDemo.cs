@@ -23,10 +23,10 @@ namespace Practice
     }
     class MultiThreadingDemo
     {
-        static async Task Main()
-        {
-            TaskProcessor processor = new TaskProcessor();
-            await processor.RunTasksAsync();
-        }
+        //static async Task Main()
+        //{
+        //    TaskProcessor processor = new TaskProcessor();
+        //    await processor.RunTasksAsync();
+        //}
     }
 }
