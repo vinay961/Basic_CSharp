@@ -1,0 +1,5 @@
+D:\Visual-Studio\Basic_CSharp\AsyncProgramming\obj\Debug\net9.0\AsyncProgramming.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual-Studio\Basic_CSharp\AsyncProgramming\obj\Debug\net9.0\AsyncProgramming.AssemblyInfoInputs.cache
+D:\Visual-Studio\Basic_CSharp\AsyncProgramming\obj\Debug\net9.0\AsyncProgramming.AssemblyInfo.cs
+D:\Visual-Studio\Basic_CSharp\AsyncProgramming\obj\Debug\net9.0\AsyncProgramming.csproj.CoreCompileInputs.cache
+D:\Visual-Studio\Basic_CSharp\AsyncProgramming\obj\Debug\net9.0\AsyncProgramming.sourcelink.json

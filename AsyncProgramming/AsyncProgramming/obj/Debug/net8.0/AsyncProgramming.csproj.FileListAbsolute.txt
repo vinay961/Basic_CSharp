@@ -1,0 +1,15 @@
+D:\Visual-Studio\Basic_CSharp\AsyncProgramming\AsyncProgramming\bin\Debug\net8.0\AsyncProgramming.exe
+D:\Visual-Studio\Basic_CSharp\AsyncProgramming\AsyncProgramming\bin\Debug\net8.0\AsyncProgramming.deps.json
+D:\Visual-Studio\Basic_CSharp\AsyncProgramming\AsyncProgramming\bin\Debug\net8.0\AsyncProgramming.runtimeconfig.json
+D:\Visual-Studio\Basic_CSharp\AsyncProgramming\AsyncProgramming\bin\Debug\net8.0\AsyncProgramming.dll
+D:\Visual-Studio\Basic_CSharp\AsyncProgramming\AsyncProgramming\bin\Debug\net8.0\AsyncProgramming.pdb
+D:\Visual-Studio\Basic_CSharp\AsyncProgramming\AsyncProgramming\obj\Debug\net8.0\AsyncProgramming.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual-Studio\Basic_CSharp\AsyncProgramming\AsyncProgramming\obj\Debug\net8.0\AsyncProgramming.AssemblyInfoInputs.cache
+D:\Visual-Studio\Basic_CSharp\AsyncProgramming\AsyncProgramming\obj\Debug\net8.0\AsyncProgramming.AssemblyInfo.cs
+D:\Visual-Studio\Basic_CSharp\AsyncProgramming\AsyncProgramming\obj\Debug\net8.0\AsyncProgramming.csproj.CoreCompileInputs.cache
+D:\Visual-Studio\Basic_CSharp\AsyncProgramming\AsyncProgramming\obj\Debug\net8.0\AsyncProgramming.sourcelink.json
+D:\Visual-Studio\Basic_CSharp\AsyncProgramming\AsyncProgramming\obj\Debug\net8.0\AsyncProgramming.dll
+D:\Visual-Studio\Basic_CSharp\AsyncProgramming\AsyncProgramming\obj\Debug\net8.0\refint\AsyncProgramming.dll
+D:\Visual-Studio\Basic_CSharp\AsyncProgramming\AsyncProgramming\obj\Debug\net8.0\AsyncProgramming.pdb
+D:\Visual-Studio\Basic_CSharp\AsyncProgramming\AsyncProgramming\obj\Debug\net8.0\AsyncProgramming.genruntimeconfig.cache
+D:\Visual-Studio\Basic_CSharp\AsyncProgramming\AsyncProgramming\obj\Debug\net8.0\ref\AsyncProgramming.dll
